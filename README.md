@@ -36,8 +36,8 @@ Here are some things to know about me:</p>
 </div>
 
 <h4>My Stats</h4>
-
-<img src="https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true" />
-
+<picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true" />
+</picture>
 </body>
 </html>
