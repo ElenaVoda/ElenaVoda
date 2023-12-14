@@ -36,12 +36,6 @@ Here are some things to know about me:</p>
 </div>
 
 <h4>My Stats</h4>
-<picture>
-<!--     <source
-    srcset="https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true&theme=aura"
-    media="(prefers-color-scheme: dark)"
-  /> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true&theme=aura" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true&theme=aura" />
 </body>
 </html>
