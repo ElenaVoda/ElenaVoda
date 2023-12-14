@@ -16,12 +16,12 @@ Here are some things to know about me:</p>
   <li> 💻 I’m looking to start a full-time position soon. In the meantime, I am open to collaborating on one-off freelance projects</li>
   <li> 🧑‍🤝‍🧑 I would love to expand my community and find other passionate people in this field</li>
   <li> 📫 How to reach me:</li>
-    <a href="https://www.linkedin.com/in/elena-voda/">
+    <a href="https://www.linkedin.com/in/elena-voda/" target=”_blank”>
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </ul>
 
-<h4>:hammer_and_wrench: Languages and Tools:</h4>
+<h4>🛠️ Languages and Tools:</h4>
 <div class="row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
@@ -36,7 +36,10 @@ Here are some things to know about me:</p>
 </div>
 
 <h4>My Stats</h4>
-![Elena’s GitHub stats](https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true&theme=aura)
+ <source
+    srcset="https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true&theme=aura"
+    media="(prefers-color-scheme: dark)"
+  />
 
 </body>
 </html>
