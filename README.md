@@ -23,6 +23,7 @@ Here are some things to know about me:</p>
 </ul>
 
 <h4>Skills</h4>
+<div class="row">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20" height="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" />
@@ -33,7 +34,7 @@ Here are some things to know about me:</p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="20" height="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="20" height="20" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20" height="20" />
+</div>
 
-https://github-readme-stats.vercel.app/api?username=elenavoda&show_icons=true&theme=aura
 </body>
 </html>
